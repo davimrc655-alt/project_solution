@@ -1,0 +1,20 @@
+# Configurações do VS Code e IDEs
+.vscode/
+.idea/
+
+# Arquivos e Projetos C# / .NET (para evitar que subam por engano novamente)
+*.sln
+ConsoleApp1.sln
+ex1/
+templet/
+bin/
+obj/
+
+# Arquivos do Sistema Operacional (Windows e macOS)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs e arquivos temporários
+*.log
